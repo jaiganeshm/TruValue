@@ -1,7 +1,10 @@
 package aus.hack.hedna.service;
 
+import java.util.List;
+
 import org.springframework.stereotype.Service;
 
+import aus.hack.hedna.domain.Property;
 import aus.hack.hedna.domain.ReservationList;
 import aus.hack.hedna.util.Oauth2Util;
 
@@ -19,6 +22,10 @@ public class ReservationService {
 	
 	public ReservationList getReservations(String propertyId) {
 	    return restClient.getReservations();
+	}
+	
+	public List<Property> getProperties() {
+	    return restClient.getProperties();
 	}
 
 }
