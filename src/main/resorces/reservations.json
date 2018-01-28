@@ -1,0 +1,179 @@
+[
+    {
+        "reservations": [
+            {
+                "pms_ifc_version": "v2.1",
+                "property_id": "05076c15-cb52-4b83-b8af-8470f85023f2",
+                "reservation_id": "LL1nPHHZE2",
+                "confirmation_id": "",
+                "external_reservation_id": "",
+                "created_date_time": "2017-12-12T22:00:00",
+                "res_status": "confirmed",
+                "is_complimentary": null,
+                "is_house_use": null,
+                "sharer_reservation_id": "",
+                "start": "2017-12-13",
+                "arrival_date_time": null,
+                "end": "2017-12-14",
+                "departure_date_time": null,
+                "number_of_units": [
+                    1
+                ],
+                "market_segment": "MARKET9KsTyWWXHN",
+                "market_category": "",
+                "channel_segment": "CHANNELeGFPPUs2tP",
+                "channel_category": "",
+                "agency_name": "",
+                "iata_code": "",
+                "company_name": "",
+                "rate_plan_code": "RT_PLANADL9G",
+                "occupied_room_type_code": "R_TYPEUEVuk",
+                "occupied_room_type_category": "",
+                "booked_room_type_code": "",
+                "booked_room_type_category": "",
+                "extra_bed": 0,
+                "cot": 0,
+                "room_number": "0675",
+                "block_name": "",
+                "last_modified_date_time": "2017-12-14T05:20:56",
+                "cancellation_date": null,
+                "cancellation_reason": null,
+                "rate_per_stay_dates": [
+                    {
+                        "date": "2017-12-13",
+                        "rate_before_tax": 396.59,
+                        "rate_after_tax": 428.32
+                    }
+                ],
+                "revenue_details": [
+                    {
+                        "date": "2017-12-13",
+                        "forecast_daily_room_revenue_before_tax": 396.59,
+                        "forecast_daily_room_revenue_after_tax": 428.32,
+                        "forecast_daily_food_and_beverage_revenue_before_tax": 0,
+                        "forecast_daily_food_and_beverage_revenue_after_tax": 0,
+                        "forecast_daily_others_revenue_before_tax": 0,
+                        "forecast_daily_others_revenue_after_tax": 0,
+                        "actual_daily_room_revenue_before_tax": 396.59,
+                        "actual_daily_room_revenue_after_tax": 428.32,
+                        "actual_daily_food_and_beverage_revenue_before_tax": 0,
+                        "actual_daily_food_and_beverage_revenue_after_tax": 0,
+                        "actual_daily_others_revenue_before_tax": 0,
+                        "actual_daily_others_revenue_after_tax": 0
+                    }
+                ],
+                "adults": 3,
+                "children": 0,
+                "children_ages": null,
+                "primary_guest_id": null,
+                "primary_guest_first_name": null,
+                "primary_guest_last_name": null,
+                "primary_guest_email_address": null,
+                "primary_guest_state": null,
+                "primary_guest_city": null,
+                "primary_guest_country": null,
+                "primary_guest_vip_code": null,
+                "primary_guest_loyalty_level": null,
+                "comments": null,
+                "special_requests": null
+            },
+            {
+                "pms_ifc_version": "v2.1",
+                "property_id": "05076c15-cb52-4b83-b8af-8470f85023f2",
+                "reservation_id": "iUF3xdcw0R",
+                "confirmation_id": "",
+                "external_reservation_id": "",
+                "created_date_time": "2017-12-11T10:34:25",
+                "res_status": "confirmed",
+                "is_complimentary": null,
+                "is_house_use": null,
+                "sharer_reservation_id": "",
+                "start": "2017-12-12",
+                "arrival_date_time": null,
+                "end": "2017-12-14",
+                "departure_date_time": null,
+                "number_of_units": [
+                    1,
+                    1
+                ],
+                "market_segment": "MARKETWpc7RzB6YP",
+                "market_category": "",
+                "channel_segment": "CHANNELOtD1HlWJGS",
+                "channel_category": "",
+                "agency_name": "TR_AGNT8Rdz2s6re1",
+                "iata_code": "",
+                "company_name": "",
+                "rate_plan_code": "RT_PLAN9CYBk",
+                "occupied_room_type_code": "R_TYPEDvcDm",
+                "occupied_room_type_category": "",
+                "booked_room_type_code": "",
+                "booked_room_type_category": "",
+                "extra_bed": 0,
+                "cot": 0,
+                "room_number": "7990",
+                "block_name": "",
+                "last_modified_date_time": "2017-12-14T06:27:29",
+                "cancellation_date": null,
+                "cancellation_reason": null,
+                "rate_per_stay_dates": [
+                    {
+                        "date": "2017-12-12",
+                        "rate_before_tax": 240.69,
+                        "rate_after_tax": 259.94
+                    },
+                    {
+                        "date": "2017-12-13",
+                        "rate_before_tax": 1007.37,
+                        "rate_after_tax": 1087.97
+                    }
+                ],
+                "revenue_details": [
+                    {
+                        "date": "2017-12-12",
+                        "forecast_daily_room_revenue_before_tax": 190.55,
+                        "forecast_daily_room_revenue_after_tax": 205.79,
+                        "forecast_daily_food_and_beverage_revenue_before_tax": 50.14,
+                        "forecast_daily_food_and_beverage_revenue_after_tax": 54.15,
+                        "forecast_daily_others_revenue_before_tax": 0,
+                        "forecast_daily_others_revenue_after_tax": 0,
+                        "actual_daily_room_revenue_before_tax": 381.1,
+                        "actual_daily_room_revenue_after_tax": 411.58,
+                        "actual_daily_food_and_beverage_revenue_before_tax": 0,
+                        "actual_daily_food_and_beverage_revenue_after_tax": 0,
+                        "actual_daily_others_revenue_before_tax": 0,
+                        "actual_daily_others_revenue_after_tax": 0
+                    },
+                    {
+                        "date": "2017-12-13",
+                        "forecast_daily_room_revenue_before_tax": 756.81,
+                        "forecast_daily_room_revenue_after_tax": 817.36,
+                        "forecast_daily_food_and_beverage_revenue_before_tax": 250.56,
+                        "forecast_daily_food_and_beverage_revenue_after_tax": 270.61,
+                        "forecast_daily_others_revenue_before_tax": 0,
+                        "forecast_daily_others_revenue_after_tax": 0,
+                        "actual_daily_room_revenue_before_tax": 756.82,
+                        "actual_daily_room_revenue_after_tax": 817.36,
+                        "actual_daily_food_and_beverage_revenue_before_tax": 0,
+                        "actual_daily_food_and_beverage_revenue_after_tax": 0,
+                        "actual_daily_others_revenue_before_tax": 0,
+                        "actual_daily_others_revenue_after_tax": 0
+                    }
+                ],
+                "adults": 1,
+                "children": 0,
+                "children_ages": null,
+                "primary_guest_id": null,
+                "primary_guest_first_name": null,
+                "primary_guest_last_name": null,
+                "primary_guest_email_address": null,
+                "primary_guest_state": null,
+                "primary_guest_city": null,
+                "primary_guest_country": null,
+                "primary_guest_vip_code": null,
+                "primary_guest_loyalty_level": null,
+                "comments": null,
+                "special_requests": null
+            }
+        ]
+    }
+]
